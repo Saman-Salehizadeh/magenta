@@ -121,7 +121,6 @@ CONSOLE_SCRIPTS = [
 
 setup(
     name='magenta',
-    version=__version__,  # pylint: disable=undefined-variable
     description='Use machine learning to create art and music',
     long_description='',
     url='https://magenta.tensorflow.org/',
